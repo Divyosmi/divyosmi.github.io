@@ -1,4 +1,4 @@
-![image](https://github.com/Divyosmi/divyosmi.github.io/blob/Main/divyosmi.png)
+![alt text](divyosmi.png)
 # divyosmi.github.io
 As I and you explore. It's a long journey. Coffee?
 # objective
