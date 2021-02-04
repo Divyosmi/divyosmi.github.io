@@ -45,3 +45,13 @@ I completed my primary education.
 2. St. Xavier's Institution,Ruiya,Khardah (August 2017 - present (expected 2026)) 
 I am pursuing my secondary Education.
 
+# Certificates 
+Sorry? come to my home to have a look at my certificates too many to show 
+
+# projects 
+## all my projects on 
+https://kaggle.com/divyosmi2009
+https://github.com/Divyosmi
+
+## HAESolve
+https://sites.google.com/view/haesolve
