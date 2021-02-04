@@ -52,9 +52,9 @@ Sorry? come to my home to have a look at my certificates too many to show
 
 # projects 
 ## all my projects on 
-[I'm an inline-style link][https://kaggle.com/divyosmi2009 ]
+[project code on kaggle][https://kaggle.com/divyosmi2009 ]
 
-[I'm an inline-style link][https://github.com/Divyosmi]
+[projects on GitHub][https://github.com/Divyosmi]
 
 ## HAESolve
-[I'm an inline-style link][https://sites.google.com/view/haesolve/haesolve]
+[HAESolve][https://sites.google.com/view/haesolve/haesolve]
