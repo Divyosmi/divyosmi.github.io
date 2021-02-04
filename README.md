@@ -4,27 +4,27 @@ As I and you explore. It's a long journey. Coffee?
 I want to know it all and drink every single dreg from the cup of coffee. I am an avid reader and learner ready to read and learn. I love writing because in and through it I can express myself better. I beleive technology can help every problem being solved. Read the resume to know about me. 🙂😇
 # contact 
 
-+91 9804396917 
+phone: +91 9804396917 
 
-email: [I'm an inline-style link][https://mailto:goswamidivyosmi@gmail.com]
+email: [goswamidivyosmi@gmail.com](https://mailto:goswamidivyosmi@gmail.com)
 
 nationality: Indian 
 
 Birthday: 30 January 2009
 
-blog: [I'm an inline-style link][divyosmi.medium.com]
+blog: [Medium Blog and website](divyosmi.medium.com)
 
-Twitter: [I'm an inline-style link][https://twitter.com/DivyosmiGoswami ]
+Twitter: [@DivyosmiGoswami](https://twitter.com/DivyosmiGoswami)
 
-LinkedIn: [I'm an inline-style link][https://www.linkedin.com/m/in/divyosmi-goswami-123578202/]
+LinkedIn: [LinkedIn](https://www.linkedin.com/m/in/divyosmi-goswami-123578202/)
 
-kaggle: [I'm an inline-style link][https://www.kaggle.com/divyosmi2009]
+kaggle: [Divyosmi2009](https://www.kaggle.com/divyosmi2009)
 
-HAESolve: [I'm an inline-style link][https://sites.google.com/view/haesolve/]
+HAESolve: [HAESolve, CEO](https://sites.google.com/view/haesolve/)
 
-GitHub: [I'm an inline-style link][https://github.com/divyosmi]
+GitHub: [Divyosmi](https://github.com/divyosmi)
 
-
+Quora: [Divyosmi Goswami](quora.com/profile/Divyosmi-Goswami-1)
 
 # skills 
 
