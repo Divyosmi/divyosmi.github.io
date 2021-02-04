@@ -23,3 +23,25 @@ kaggle: https://www.kaggle.com/divyosmi2009
 HAESolve: https://sites.google.com/view/haesolve/
 
 GitHub: https://github.com/divyosmi
+
+# skills 
+
+* Data Science (Low intermideate)
+* Blogging (High Intermideate)
+* Coding (Begginer-Low Intermideate)
+* Micro Blogging (Begginer)
+* Deep Learning (Low Intermideate)
+* Computer vision (Intermideate)
+* python (High Intermideate)
+* r (begginer)
+* AI (begginer)
+* product management (Low Intermideate)
+
+# Education
+
+1. Debarati Vivekananda Ramkrishna mission (10 February 2010- August 2016) 
+I completed my primary education.
+
+2. St. Xavier's Institution,Ruiya,Khardah (August 2017 - present (expected 2026)) 
+I am pursuing my secondary Education.
+
