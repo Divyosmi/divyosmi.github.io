@@ -6,23 +6,25 @@ I want to know it all and drink every single dreg from the cup of coffee. I am a
 
 +91 9804396917 
 
-email: [https://mailto:goswamidivyosmi@gmail.com]
+email: [I'm an inline-style link][https://mailto:goswamidivyosmi@gmail.com]
 
 nationality: Indian 
 
 Birthday: 30 January 2009
 
-blog: [divyosmi.medium.com]
+blog: [I'm an inline-style link][divyosmi.medium.com]
 
-Twitter: [https://twitter.com/DivyosmiGoswami ]
+Twitter: [I'm an inline-style link][https://twitter.com/DivyosmiGoswami ]
 
-LinkedIn: [https://www.linkedin.com/m/in/divyosmi-goswami-123578202/]
+LinkedIn: [I'm an inline-style link][https://www.linkedin.com/m/in/divyosmi-goswami-123578202/]
 
-kaggle: [https://www.kaggle.com/divyosmi2009]
+kaggle: [I'm an inline-style link][https://www.kaggle.com/divyosmi2009]
 
-HAESolve: [https://sites.google.com/view/haesolve/]
+HAESolve: [I'm an inline-style link][https://sites.google.com/view/haesolve/]
 
-GitHub: [https://github.com/divyosmi]
+GitHub: [I'm an inline-style link][https://github.com/divyosmi]
+
+
 
 # skills 
 
@@ -50,9 +52,9 @@ Sorry? come to my home to have a look at my certificates too many to show
 
 # projects 
 ## all my projects on 
-[https://kaggle.com/divyosmi2009 ]
+[I'm an inline-style link][https://kaggle.com/divyosmi2009 ]
 
-[https://github.com/Divyosmi]
+[I'm an inline-style link][https://github.com/Divyosmi]
 
 ## HAESolve
 [https://sites.google.com/view/haesolve/haesolve]
