@@ -6,23 +6,23 @@ I want to know it all and drink every single dreg from the cup of coffee. I am a
 
 +91 9804396917 
 
-email: goswamidivyosmi@gmail.com
+email: [https://mailto:goswamidivyosmi@gmail.com]
 
 nationality: Indian 
 
 Birthday: 30 January 2009
 
-blog: divyosmi.medium.com
+blog: [divyosmi.medium.com]
 
-Twitter: https://twitter.com/DivyosmiGoswami 
+Twitter: [https://twitter.com/DivyosmiGoswami ]
 
-LinkedIn: https://www.linkedin.com/m/in/divyosmi-goswami-123578202/
+LinkedIn: [https://www.linkedin.com/m/in/divyosmi-goswami-123578202/]
 
-kaggle: https://www.kaggle.com/divyosmi2009
+kaggle: [https://www.kaggle.com/divyosmi2009]
 
-HAESolve: https://sites.google.com/view/haesolve/
+HAESolve: [https://sites.google.com/view/haesolve/]
 
-GitHub: [link][https://github.com/divyosmi]
+GitHub: [https://github.com/divyosmi]
 
 # skills 
 
@@ -50,9 +50,9 @@ Sorry? come to my home to have a look at my certificates too many to show
 
 # projects 
 ## all my projects on 
-[link][https://kaggle.com/divyosmi2009 ]
+[https://kaggle.com/divyosmi2009 ]
 
-[link][https://github.com/Divyosmi]
+[https://github.com/Divyosmi]
 
 ## HAESolve
-https://sites.google.com/view/haesolve
+[https://sites.google.com/view/haesolve]
