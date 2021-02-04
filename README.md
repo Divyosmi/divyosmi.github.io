@@ -55,4 +55,4 @@ Sorry? come to my home to have a look at my certificates too many to show
 [https://github.com/Divyosmi]
 
 ## HAESolve
-[https://sites.google.com/view/haesolve]
+[https://sites.google.com/view/haesolve/haesolve]
