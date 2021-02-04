@@ -22,7 +22,7 @@ kaggle: https://www.kaggle.com/divyosmi2009
 
 HAESolve: https://sites.google.com/view/haesolve/
 
-GitHub: https://github.com/divyosmi
+GitHub: [link][https://github.com/divyosmi]
 
 # skills 
 
@@ -50,8 +50,9 @@ Sorry? come to my home to have a look at my certificates too many to show
 
 # projects 
 ## all my projects on 
-https://kaggle.com/divyosmi2009
-https://github.com/Divyosmi
+[link][https://kaggle.com/divyosmi2009 ]
+
+[link][https://github.com/Divyosmi]
 
 ## HAESolve
 https://sites.google.com/view/haesolve
